@@ -92,8 +92,8 @@ depending on your [notification settings](https://github.com/settings/notificati
 * [web-base-template issues](http://github.com/jquery/web-base-template/issues) - The WordPress base template that themes all our sites
 * [jquery.com issues](http://github.com/jquery/jquery.com/issues) - The content of [jquery.com](http://jquery.com) itself
 * [plugins.jquery.com issues](http://github.com/jquery/jquery.com/issues) - The jQuery Plugin Registry
-* [jqueryui.com issues](http://github.com/jquery/jqueryui.com/issues) - The content of [jquery.com](http://jqueryui.com) itself
-* [download.jqueryui.com issues](http://github.com/jquery/download.jqueryui.com/issues) - The [jQuery UI Download Builder](http://download.jqueryui.com)
+* [jqueryui.com issues](http://github.com/jquery/jqueryui.com/issues) - The content of [jqueryui.com](http://jqueryui.com) itself
+* [download.jqueryui.com issues](http://github.com/jquery/download.jqueryui.com/issues) - The [jQuery UI Download Builder and ThemeRoller](http://download.jqueryui.com)
 * [jquerymobile.com issues](http://github.com/jquery/jquerymobile.com/issues) - The content of [jquerymobile.com](http://jquerymobile.com) itself
 * [qunitjs.com issues](http://github.com/jquery/qunitjs.com/issues) - The content of [qunitjs.com](http://qunitjs.com) itself
 * [sizzlejs.com issues](http://github.com/jquery/sizzlejs.com/issues) - The content of [qunitjs.com](http://qunitjs.com) itself
